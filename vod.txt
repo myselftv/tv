@@ -1,0 +1,5 @@
+推荐,#genre#
+4K蓝光仓,https://blog.kkcsc.com/vod/1.txt
+高清影视,https://blog.kkcsc.com/vod/2.txt
+短剧专区,https://blog.kkcsc.com/vod/3.txt
+豆瓣高分,https://blog.kkcsc.com/vod/4.txt
