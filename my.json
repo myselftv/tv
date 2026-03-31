@@ -1,0 +1,38 @@
+{
+  "urls": [
+    {
+      "name": "🏠 自用直播源",
+      "url": "https://gitee.com/klptv/mytv/raw/master/live.txt"
+    },
+    {
+      "name": "🎬 优质影视源",
+      "url": "https://gitee.com/klptv/mytv/raw/master/vod.txt"
+    }
+  ],
+  "lives": [
+    {
+      "name": "央视卫视",
+      "type": "0",
+      "url": "https://gitee.com/klptv/mytv/raw/master/live.txt",
+      "epg": "https://epg.112114.xyz/epg.xml",
+      "logo": "https://epg.112114.xyz/logo/{channel}.png"
+    }
+  ],
+  "spider": [
+    {
+      "name": "影视聚合",
+      "type": 1,
+      "api": "https://afdian.net/api/post/preview/8b91dffe4e2c11eea75152540025c377",
+      "search": 1,
+      "quickSearch": 1
+    }
+  ],
+  "deps": [
+    {
+      "name": "内置解析",
+      "url": "https://s.myqcloud.com/api/tvbox/parse.json"
+    }
+  ],
+  "wallpaper": "https://pic.imgdb.cn/item/656267e7c458853aefe1d2d7.jpg",
+  "poster": "https://gitee.com/klptv/mytv/raw/master/poster.png"
+}
